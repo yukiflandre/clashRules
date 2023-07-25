@@ -1,2 +1,1 @@
 DOMAIN-SUFFIX,baiwanzhan.com
-AND,((NETWORK,UDP),(DST-PORT,443),(GEOSITE,youtube))
