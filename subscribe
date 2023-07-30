@@ -1,0 +1,7 @@
+proxies:
+  - {"name":"🇫🇷_FR_法国_1","type":"ss","server":"5x.36.174.181","port":8000,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 🇫🇷_FR_法国_1
