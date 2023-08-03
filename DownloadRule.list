@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,megapay.nz
+DOMAIN-SUFFIX,hath.network
 IP-CIDR,162.208.16.0/24,no-resolve
 IP-CIDR,185.206.24.0/24,no-resolve
 IP-CIDR,185.206.25.0/24,no-resolve
