@@ -1,6 +1,6 @@
 payload:
-  - DOMAIN-SUFFIX,mega.nz,📥 资源下载
-  - DOMAIN-SUFFIX,mega.io,📥 资源下载
-  - DOMAIN-SUFFIX,mega.co.nz,📥 资源下载
-  - DOMAIN-SUFFIX,megapay.nz,📥 资源下载
-  - DOMAIN-SUFFIX,hath.network,📥 资源下载
+  - DOMAIN-SUFFIX,mega.nz
+  - DOMAIN-SUFFIX,mega.io
+  - DOMAIN-SUFFIX,mega.co.nz
+  - DOMAIN-SUFFIX,megapay.nz
+  - DOMAIN-SUFFIX,hath.network
