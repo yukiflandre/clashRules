@@ -1,21 +1,16 @@
 payload:
-  - AND,(AND,(DST-PORT,443),(NETWORK,UDP)),(GEOSITE,geolocation-!cn),REJECT # quic
-  - AND,(AND,(PROCESS-NAME,115chrome.exe),(NETWORK,TCP)),(DOMAIN-KEYWORD,google),REJECT
-  - RULE-SET,reject,🚫 广告拦截
-  - RULE-SET,BanAD,🚫 广告拦截
-  - RULE-SET,BlockHttpDNS,🚫 广告拦截
-  - PROCESS-NAME,aria2c.exe,🎯 国内直连
-  - PROCESS-NAME,fdm.exe,🎯 国内直连
-  - PROCESS-NAME,Folx.exe,🎯 国内直连
-  - PROCESS-NAME,NetTransport.exe,🎯 国内直连
-  - PROCESS-NAME,Thunder.exe,🎯 国内直连
-  - PROCESS-NAME,Transmission.exe,🎯 国内直连
-  - PROCESS-NAME,uTorrent.exe,🎯 国内直连
-  - PROCESS-NAME,WebTorrent.exe,🎯 国内直连
-  - PROCESS-NAME,WebTorrent Helper.exe,🎯 国内直连
-  - PROCESS-NAME,qbittorrent.exe,🎯 国内直连
-  - DOMAIN-SUFFIX,smtp,🎯 国内直连
-  - DOMAIN-KEYWORD,aria2,🎯 国内直连
-  - PROCESS-NAME,DownloadService.exe,🎯 国内直连
-  - PROCESS-NAME,Weiyun.exe,🎯 国内直连
-  - PROCESS-NAME,baidunetdisk.exe,🎯 国内直连
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,WebTorrent Helper.exe
+  - PROCESS-NAME,qbittorrent.exe
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN-KEYWORD,aria2
+  - PROCESS-NAME,DownloadService.exe
+  - PROCESS-NAME,Weiyun.exe
+  - PROCESS-NAME,baidunetdisk.exe
