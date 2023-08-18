@@ -1,0 +1,13 @@
+payload:
+  - '+.ipinfo.io'
+  - '+.stackoverflow.com'
+  - '+.stackauth.com'
+  - '+.sankakucomplex.com'
+  - '+.geekzu.org'
+  - '+.manhuagui.com'
+  - '+.hamreus.com'
+  - '+.18comic.org'
+  - '+.mhgui.com'
+  - '+.snow-plus.net'
+  - '+.cangku.icu'
+  - '+.copymanga.site'
