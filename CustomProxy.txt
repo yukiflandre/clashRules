@@ -11,3 +11,4 @@ payload:
   - '+.snow-plus.net'
   - '+.cangku.icu'
   - '+.copymanga.site'
+  - '+.hanime1.me'
