@@ -2,8 +2,7 @@ payload:
   - PROCESS-NAME,aria2c.exe
   - PROCESS-NAME,fdm.exe
   - PROCESS-NAME,Folx.exe
-  - PROCESS-NAME,NetTransport.exe
-  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,NetTransport.exe、
   - PROCESS-NAME,Transmission.exe
   - PROCESS-NAME,uTorrent.exe
   - PROCESS-NAME,WebTorrent.exe
@@ -12,5 +11,3 @@ payload:
   - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
   - PROCESS-NAME,DownloadService.exe
-  - PROCESS-NAME,Weiyun.exe
-  - PROCESS-NAME,baidunetdisk.exe
