@@ -12,3 +12,5 @@ payload:
   - '+.cangku.icu'
   - '+.copymanga.site'
   - '+.hanime1.me'
+  - '+.yande.re'
+  
