@@ -13,4 +13,6 @@ payload:
   - '+.copymanga.site'
   - '+.hanime1.me'
   - '+.yande.re'
+  - '+.op.gg'
+  
   
