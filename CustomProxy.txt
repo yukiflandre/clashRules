@@ -14,5 +14,5 @@ payload:
   - '+.hanime1.me'
   - '+.yande.re'
   - '+.op.gg'
-  
+  - '+.wzip.download'
   
