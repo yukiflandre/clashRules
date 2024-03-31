@@ -15,4 +15,5 @@ payload:
   - '+.yande.re'
   - '+.op.gg'
   - '+.wzip.download'
+  - '+.mangafuna.xyz'
   
