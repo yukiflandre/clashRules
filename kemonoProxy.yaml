@@ -1,3 +1,4 @@
 payload:
- -DOMAIN-SUFFIX,kemono.su
- -DOMAIN-SUFFIX,img.kemono.su
+ - DOMAIN-SUFFIX,kemono.su
+ - DOMAIN-SUFFIX,img.kemono.su
+ - DOMAIN-KEYWORD,kemono
