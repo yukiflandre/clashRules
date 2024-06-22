@@ -2,3 +2,4 @@ payload:
   - '+.pull-ws1.haixing.tv'
   - '+.haixing.tv'
   - '+.hxzxer.com'
+  - '+.idevkit.com'
