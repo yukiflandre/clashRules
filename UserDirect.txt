@@ -4,3 +4,4 @@ payload:
   - '+.hxzxer.com'
   - '+.idevkit.com'
   - '+.eztzhu.top'
+  - '+.pic.eztzhu.top'
