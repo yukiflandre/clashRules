@@ -3,3 +3,4 @@ payload:
   - '+.haixing.tv'
   - '+.hxzxer.com'
   - '+.idevkit.com'
+  - '+.eztzhu.top'
