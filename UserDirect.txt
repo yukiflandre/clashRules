@@ -6,4 +6,6 @@ payload:
   - '+.eztzhu.top'
   - '+.bztzhu.top'
   - '+.pull.bztzhu.top'
+  - '+.qm.live'
+  - '+.dunduiby.com'
   
