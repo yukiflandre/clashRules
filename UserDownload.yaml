@@ -1,4 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,hath.network
   - DOMAIN-SUFFIX,pixeldrain.com
-  - DOMAIN-SUFFIX,https://gofile.io
+  - DOMAIN-SUFFIX,gofile.io
+  - DOMAIN-SUFFIX,asmr-100.com
+  - DOMAIN-SUFFIX,asmr.one
+  - DOMAIN-SUFFIX,pixeldrain.com
