@@ -8,5 +8,4 @@ payload:
   - '+.pull.bztzhu.top'
   - '+.qm.live'
   - '+.dunduiby.com'
-  - '+.asmrconnecting.xyz'
   
