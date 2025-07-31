@@ -9,4 +9,5 @@ payload:
   - '+.qm.live'
   - '+.dunduiby.com'
   - '+.zaimanhua.com'
+  - '+.manhua.zaimanhua.com'
   
