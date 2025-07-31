@@ -8,4 +8,5 @@ payload:
   - '+.pull.bztzhu.top'
   - '+.qm.live'
   - '+.dunduiby.com'
+  - '+.zaimanhua.com'
   
